@@ -4,7 +4,7 @@ description: "Details about the '77 Bus for Sale"
 baseurl: "/"
 url: "https://www.myvwbusforsale.com"
 language: "en"
-show_downloads: "false"
+show_downloads: [false]
 timezone: America/New_York
 google_analytics: UA-130486188-1
 

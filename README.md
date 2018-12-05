@@ -1,5 +1,5 @@
----
-### Restoration ###
+
+### Restoration
 
 The odometer reads `75455` on it, but this likely means 175k miles because the odomoter has 5 digits. The speedometer and odometer work and are accurate.
 
