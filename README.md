@@ -1,5 +1,3 @@
-# 1977 Volkswagen Type 2 Bus #
-
 ### Maintenance ###
 
 The odometer reads `${MILEAGE}` on it. The speedometer and odometer work and are accurate.
