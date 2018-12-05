@@ -1,6 +1,5 @@
 ---
 title: 1977 Volkswagen Type 2 Bus
-layout: null
 ---
 
 ### Restoration ###
