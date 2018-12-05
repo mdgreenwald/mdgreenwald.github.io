@@ -1,1 +1,8 @@
 theme: jekyll-theme-cayman
+
+title: 1977 Volkswagen Type 2 Bus for Sale
+description: Details about the '77 Bus for Sale
+baseurl: "/"
+url: "https://www.myvwbusforsale.com"
+language: "en"
+timezone: America/New_York
