@@ -36,4 +36,4 @@ We are selling it because we are getting an updated car (2012) that we can drive
 
 ### Legal ###
 Sold as is. Clean title, no liens. Passes safety inspection and is currently registered and insured.
-Price is negotiable but no low ball offers. $2,000 upfront deposit required to claim bus. Cash only offers accepted.
+Price is negotiable but no low ball offers. Cash only offers accepted.
