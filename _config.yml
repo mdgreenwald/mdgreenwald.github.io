@@ -3,6 +3,7 @@ description: "Details about the '77 Bus for Sale"
 authors: "Matthew Greenwald"
 baseurl: ""
 url: "https://www.myvwbusforsale.com"
+show_downloads: false
 encoding: UTF-8
 language: "en"
 timezone: America/New_York
