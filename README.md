@@ -1,9 +1,9 @@
 ### Restoration ###
 
-The odometer reads `75455` on it, but this likely means its 175k miles because the odomoter has 5 digits. The speedometer and odometer work and are accurate.
+The odometer reads `75455` on it, but this likely means 175k miles because the odomoter has 5 digits. The speedometer and odometer work and are accurate.
 
-* The original engine was completely rebuilt and restored roughly `10,000` miles ago by a professional restoration shop in North Carolina
-* Rebuilt engine includes new engine compartment tinning which is fully powder coated
+* The original engine was completely rebuilt and restored roughly `10,000` miles ago by a professional restoration shop in North Carolina.
+* Rebuilt engine includes new engine compartment tinning which is fully powder coated.
 * Battery (2 years)
 * Generator (2 years)
 * Seals on the front windows and doors so that the bus is warmer for winter driving (6mos)
