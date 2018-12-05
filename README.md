@@ -1,4 +1,4 @@
-#1977 Volkswagen Type 2 Bus#
+# 1977 Volkswagen Type 2 Bus #
 
 ### Maintenance ###
 
