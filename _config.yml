@@ -6,4 +6,4 @@ language: "en"
 timezone: America/New_York
 google_analytics: UA-130486188-1
 
-remote_theme: poole/lanyon
+theme: jekyll-theme-cayman
