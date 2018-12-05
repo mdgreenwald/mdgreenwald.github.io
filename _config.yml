@@ -6,5 +6,4 @@ language: "en"
 timezone: America/New_York
 google_analytics: UA-130486188-1
 
-remote_theme: minicomp/ed/
-###theme: jekyll-theme-cayman
+remote_theme: minicomp/ed
