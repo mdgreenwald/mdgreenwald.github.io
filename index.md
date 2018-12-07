@@ -3,6 +3,7 @@ title: 1977 Volkswagen Type 2 Bus
 ---
 
 ### Restoration ###
+We have maintenance records for all the major restoration work and most of the minor work as well.
 
 The odometer reads `75455` on it, but this means 175k miles because the odomoter has 5 digits. The speedometer and odometer work and are accurate.
 
