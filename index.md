@@ -4,15 +4,15 @@ title: 1977 Volkswagen Type 2 Bus
 
 ### At a glance... ###
 
-|  |  | 
-| :--- | :--- | 
-| Make            | Volkwagen          | 
-| Model           | Type 2 Transporter | 
-| Year            | 1977               | 
-| Asking Price    | $27,500.00         | 
-| Rebuild Mileage | 10,000             | 
-| Mileage         | 175,500            | 
-
+| --- | --- |
+| :--- | :--- |
+| Make            | Volkwagen          |
+| Model           | Type 2 Transporter |
+| Year            | 1977               |
+| Asking Price    | $27,500.00         |
+| Rebuild Mileage | 10,000             |
+| Mileage         | 175,500            |
+---
 
 ### Restoration ###
 We have [records](/#records) for all restoration work.
@@ -66,7 +66,7 @@ The odometer reads `75485` on it, but this means 175k miles because the odomoter
 Rear seats have been converted by previous owner into a bench seat that folds out into a futon-style bed with nice cushioning. It is comfortable and we have slept on it many times. Front seats are not original, and were put in from the previous owner for more comfort. Trailer hitch was added by previous owner, we have never towed anything or used it all.
 
 ### Care ###
-We have records for all restoration work. It has been garaged in the south each winter and we have never driven it on salt. We bought it in Florida near Orlando and have owned it for two years. We have changed the oil every 2,000 miles. We measure and if needed, top off the oil everytime we fill up the gas. This bus has been babied from the moment we bought it.
+We have [records](/#records) for all restoration work. It has been garaged in the south each winter and we have never driven it on salt. We bought it in Florida near Orlando and have owned it for two years. We have changed the oil every 2,000 miles. We measure and if needed, top off the oil everytime we fill up the gas. This bus has been babied from the moment we bought it.
 
 ### Condition ###
 The bus has no mechanical or electric issues. There are a few small (dime and nickel) rust spots on the body, and one silver dollar sized patch. Overall, there is hardly any rust, and no new rust has formed since we purchased it.
