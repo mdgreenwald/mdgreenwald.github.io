@@ -40,6 +40,18 @@ The odometer reads `75485` on it, but this means 175k miles because the odomoter
 * New, functional radio antenna (6mos)
 * Paint was recently sanded and restored to look newer and nicer (6mos)
 
+### Modifications ###
+Rear seats have been converted by previous owner into a bench seat that folds out into a futon-style bed with nice cushioning. It is comfortable and we have slept on it many times. Front seats are not original, and were put in from the previous owner for more comfort. Trailer hitch was added by previous owner, we have never towed anything or used it all.
+
+### Care ###
+We have [records](/#records) for all restoration work. It has been garaged in the south each winter and we have never driven it on salt. We bought it in Florida near Orlando and have owned it for two years. We have changed the oil every 2,000 miles. We measure and if needed, top off the oil everytime we fill up the gas. This bus has been babied from the moment we bought it.
+
+### Condition ###
+The bus has no mechanical or electric issues. There are a few small (dime and nickel) rust spots on the body, and one silver dollar sized patch. Overall, there is hardly any rust, and no new rust has formed since we purchased it.
+
+### Why ###
+We are selling it because we are getting an updated car (2012) that we can drive in the snow (as we ski a lot and frequent winter road trips to upstate New York, down to North Carolina, and even out to Colorado). We are really sad to be  selling this bus, but we really can’t justify two cars.
+
 ### Records ###
 
 | Invoice           | Date       | Total      |
@@ -62,19 +74,8 @@ The odometer reads `75485` on it, but this means 175k miles because the odomoter
 | Vehicle Base Cost |            | $8,500.00  |
 | Total             |            | $27,433.48 |
 
-
-### Modifications ###
-Rear seats have been converted by previous owner into a bench seat that folds out into a futon-style bed with nice cushioning. It is comfortable and we have slept on it many times. Front seats are not original, and were put in from the previous owner for more comfort. Trailer hitch was added by previous owner, we have never towed anything or used it all.
-
-### Care ###
-We have [records](/#records) for all restoration work. It has been garaged in the south each winter and we have never driven it on salt. We bought it in Florida near Orlando and have owned it for two years. We have changed the oil every 2,000 miles. We measure and if needed, top off the oil everytime we fill up the gas. This bus has been babied from the moment we bought it.
-
-### Condition ###
-The bus has no mechanical or electric issues. There are a few small (dime and nickel) rust spots on the body, and one silver dollar sized patch. Overall, there is hardly any rust, and no new rust has formed since we purchased it.
-
-### Why ###
-We are selling it because we are getting an updated car (2012) that we can drive in the snow (as we ski a lot and frequent winter road trips to upstate New York, down to North Carolina, and even out to Colorado). We are really sad to be  selling this bus, but we really can’t justify two cars.
+---
 
 ### Legal ###
-Sold as is. Clean title, no liens. Passes safety inspection and is currently registered and insured.
-Price is negotiable but no low ball offers. Cash only offers accepted.
+The described property is sold "as-is" without any warranties, express or implied, as to the condition of such property. Clean title, no liens. Passes safety inspection and is currently registered and insured.
+Price is negotiable. Cash only offers accepted.
