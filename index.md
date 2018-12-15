@@ -4,7 +4,7 @@ title: 1977 Volkswagen Type 2 Bus
 
 ### At a glance... ###
 
-| --- | --- |
+|  |  |
 | :--- | :--- |
 | Make            | Volkwagen          |
 | Model           | Type 2 Transporter |
@@ -12,6 +12,7 @@ title: 1977 Volkswagen Type 2 Bus
 | Asking Price    | $27,500.00         |
 | Rebuild Mileage | 10,000             |
 | Mileage         | 175,500            |
+
 ---
 
 ### Restoration ###
