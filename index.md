@@ -2,12 +2,22 @@
 title: 1977 Volkswagen Type 2 Bus
 ---
 
+|At a glance...   |                    | 
+|-----------------|--------------------| 
+| Make            | Volkwagen          | 
+| Year            | 1977               | 
+| Model           | Type 2 Transporter | 
+| Asking Price    | $27,500.00         | 
+| Rebuild Mileage | 10,000             | 
+| Mileage         | 175,500            | 
+
+
 ### Restoration ###
-We have maintenance records for all the major restoration work and most of the minor work as well.
+We have maintenance records for all restoration work.
 
-The odometer reads `75455` on it, but this means 175k miles because the odomoter has 5 digits. The speedometer and odometer work and are accurate.
+The odometer reads `75485` on it, but this means 175k miles because the odomoter has 5 digits. The speedometer and odometer work and are accurate.
 
-* The original engine was completely rebuilt and restored roughly `10,000` miles ago by a professional restoration shop in North Carolina.
+* The original engine was completely rebuilt and restored roughly `10,000` miles ago by [a professional restoration shop in North Carolina.](http://monkeynutvw.com/gallery/v/Past+ProjectsProjects/T2projects/mattgreenwald/)
 * Rebuilt engine includes new engine compartment tinning which is fully powder coated.
 * Battery (2 years)
 * Generator (2 years)
@@ -27,17 +37,39 @@ The odometer reads `75455` on it, but this means 175k miles because the odomoter
 * New, functional radio antenna (6mos)
 * Paint was recently sanded and restored to look newer and nicer (6mos)
 
+### Records ###
+| Invoice           | Date       | Total      | 
+|-------------------|------------|------------| 
+| HM-20100          | 5/9/2016   | $871.29    | 
+| MN-7026           | 6/22/2016  | $455.81    | 
+| MN-9202           | 6/27/2016  | $120.52    | 
+| MN-9204           | 6/28/2016  | $1,318.76  | 
+| MN-9214           | 6/30/2016  | $2,305.40  | 
+| MN-9250           | 8/29/2016  | $2,596.22  | 
+| MN-9256           | 11/3/2016  | $4,293.93  | 
+| MN-5504           | 11/11/2016 | $200.29    | 
+| MN-6471           | 2/11/2018  | $961.11    | 
+| MN-6481           | 2/27/2018  | $1,824.41  | 
+| MN-6543           | 5/14/2018  | $394.89    | 
+| MN-6532           | 5/23/2018  | $2,360.75  | 
+| LL-62478          | 11/29/2018 | $1,230.10  | 
+|___________________| | | 
+| Restoration Total |            | $18,933.48 | 
+| Vehicle Base Cost |            | $8,500.00  | 
+| Total             |            | $27,433.48 | 
+
+
 ### Modifications ###
-Rear seats have been converted by previous owner into a bench seat that folds out into a futon-style bed with nice cushioning. It is comfortable and we have slept on it many times. Front seats are not original, and were put in from the previous owner for more comfort. Trailer hitch was added by previous owner, we have never towed anything or used it.
+Rear seats have been converted by previous owner into a bench seat that folds out into a futon-style bed with nice cushioning. It is comfortable and we have slept on it many times. Front seats are not original, and were put in from the previous owner for more comfort. Trailer hitch was added by previous owner, we have never towed anything or used it all.
 
 ### Care ###
-We have maintenance records for all the major restoration work and most of the minor work as well. It has been garaged in the south each winter and we have never driven it on salt. We bought it in Florida near Orlando and have owned it for two years. We have changed the oil every 2,000 miles. We measure and if needed, top off the oil everytime we fill up the gas. This bus has been babied from the moment we bought it.
+We have maintenance records for all restoration work. It has been garaged in the south each winter and we have never driven it on salt. We bought it in Florida near Orlando and have owned it for two years. We have changed the oil every 2,000 miles. We measure and if needed, top off the oil everytime we fill up the gas. This bus has been babied from the moment we bought it.
 
 ### Condition ###
 The bus has no mechanical or electric issues. There are a few small (dime and nickel) rust spots on the body, and one silver dollar sized patch. Overall, there is hardly any rust, and no new rust has formed since we purchased it.
 
 ### Why ###
-We are selling it because we are getting an updated car (2012) that we can drive in the snow (as we ski a lot and frequent winter road trips to upstate New York, down to North Carolina, and even out to Colorado). We are really sad to even be considering selling this bus, but we really can’t afford to keep two cars right now.
+We are selling it because we are getting an updated car (2012) that we can drive in the snow (as we ski a lot and frequent winter road trips to upstate New York, down to North Carolina, and even out to Colorado). We are really sad to be  selling this bus, but we really can’t justify two cars.
 
 ### Legal ###
 Sold as is. Clean title, no liens. Passes safety inspection and is currently registered and insured.
