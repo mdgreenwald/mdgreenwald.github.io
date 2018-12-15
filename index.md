@@ -5,8 +5,8 @@ title: 1977 Volkswagen Type 2 Bus
 |At a glance...   |                    | 
 |-----------------|--------------------| 
 | Make            | Volkwagen          | 
-| Year            | 1977               | 
 | Model           | Type 2 Transporter | 
+| Year            | 1977               | 
 | Asking Price    | $27,500.00         | 
 | Rebuild Mileage | 10,000             | 
 | Mileage         | 175,500            | 
@@ -40,9 +40,9 @@ The odometer reads `75485` on it, but this means 175k miles because the odomoter
 ### Records ###
 | Invoice           | Date       | Total      | 
 |-------------------|------------|------------| 
-| HM-20100          | 5/9/2016   | $871.29    | 
-| MN-7026           | 6/22/2016  | $455.81    | 
-| MN-9202           | 6/27/2016  | $120.52    | 
+| [HM-20100](pdfs/1-HM-20100.pdf)          | 5/9/2016   | $871.29    | 
+| [MN-7026](/pdfs/2-MN-7026.pdf)           | 6/22/2016  | $455.81    | 
+| [MN-9202](http://www.myvwbusforsale.com/pdfs/3-MN-9202.pdf)           | 6/27/2016  | $120.52    | 
 | MN-9204           | 6/28/2016  | $1,318.76  | 
 | MN-9214           | 6/30/2016  | $2,305.40  | 
 | MN-9250           | 8/29/2016  | $2,596.22  | 
