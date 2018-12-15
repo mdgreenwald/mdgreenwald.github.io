@@ -2,8 +2,10 @@
 title: 1977 Volkswagen Type 2 Bus
 ---
 
-|At a glance...   |                    | 
-|-----------------|--------------------| 
+### At a glance... ###
+
+|  |  | 
+| :--- | :--- | 
 | Make            | Volkwagen          | 
 | Model           | Type 2 Transporter | 
 | Year            | 1977               | 
@@ -13,7 +15,7 @@ title: 1977 Volkswagen Type 2 Bus
 
 
 ### Restoration ###
-We have maintenance records for all restoration work.
+We have [records](/#records) for all restoration work.
 
 The odometer reads `75485` on it, but this means 175k miles because the odomoter has 5 digits. The speedometer and odometer work and are accurate.
 
@@ -40,7 +42,7 @@ The odometer reads `75485` on it, but this means 175k miles because the odomoter
 ### Records ###
 
 | Invoice           | Date       | Total      |
-| ------------------- | ------------ | ------------ |
+| :--- | :--- | :--- |
 | [HM-20100](pdfs/1-HM-20100.pdf) | 5/9/2016 | $871.29 |
 | [MN-7026](pdfs/2-MN-7026.pdf) | 6/22/2016  | $455.81    |
 | [MN-9202](pdfs/3-MN-9202.pdf) | 6/27/2016  | $120.52    |
@@ -54,7 +56,7 @@ The odometer reads `75485` on it, but this means 175k miles because the odomoter
 | [MN-6543](pdfs/11-MN-6543.pdf) | 5/14/2018  | $394.89    |
 | [MN-6532](pdfs/12-MN-6532.pdf) | 5/23/2018  | $2,360.75  |
 | [LL-62478](pdfs/13-LL-62478.pdf) | 11/29/2018 | $1,230.10  |
-| __________________ |  |  |
+| ___ |  |  |
 | Restoration Total |            | $18,933.48 |
 | Vehicle Base Cost |            | $8,500.00  |
 | Total             |            | $27,433.48 |
@@ -64,7 +66,7 @@ The odometer reads `75485` on it, but this means 175k miles because the odomoter
 Rear seats have been converted by previous owner into a bench seat that folds out into a futon-style bed with nice cushioning. It is comfortable and we have slept on it many times. Front seats are not original, and were put in from the previous owner for more comfort. Trailer hitch was added by previous owner, we have never towed anything or used it all.
 
 ### Care ###
-We have maintenance records for all restoration work. It has been garaged in the south each winter and we have never driven it on salt. We bought it in Florida near Orlando and have owned it for two years. We have changed the oil every 2,000 miles. We measure and if needed, top off the oil everytime we fill up the gas. This bus has been babied from the moment we bought it.
+We have records for all restoration work. It has been garaged in the south each winter and we have never driven it on salt. We bought it in Florida near Orlando and have owned it for two years. We have changed the oil every 2,000 miles. We measure and if needed, top off the oil everytime we fill up the gas. This bus has been babied from the moment we bought it.
 
 ### Condition ###
 The bus has no mechanical or electric issues. There are a few small (dime and nickel) rust spots on the body, and one silver dollar sized patch. Overall, there is hardly any rust, and no new rust has formed since we purchased it.
