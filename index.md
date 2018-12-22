@@ -20,7 +20,7 @@ We have [records](/#records) for all restoration work. The majority of the work 
 
 The odometer reads `75485` on it, but this means 175k miles because the odomoter has 5 digits. The speedometer and odometer work and are accurate.
 
-* The original engine was completely rebuilt and restored roughly `10,000` miles ago by [the same restoration shop in North Carolina.](http://monkeynutvw.com/gallery/v/Past+ProjectsProjects/T2projects/mattgreenwald/)
+* The **original engine** was completely rebuilt (top and bottom) and restored roughly `10,000` miles ago by [the same restoration shop in North Carolina.](http://monkeynutvw.com/gallery/v/Past+ProjectsProjects/T2projects/mattgreenwald/)
 * Rebuilt engine includes new engine compartment tinning which is fully powder coated.
 * Battery (2 years)
 * Generator (2 years)
